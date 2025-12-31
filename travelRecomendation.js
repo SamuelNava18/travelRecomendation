@@ -49,6 +49,7 @@ function searchDestination() {
     console.log(searchInput);
     let keywords = ['beach', 'beaches', 'temple', 'temples', 'country', 'countries'];
     if (keywords.includes(searchInput)) {
+        window.location.href = '#home';
         let result;
         switch (searchInput) {
             case 'beach':
