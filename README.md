@@ -1,4 +1,11 @@
-## Project Overview
+## Travel Recommendation Project
 
-This repository was created for the completion of the final project of the **Javascript Programming Essentials** course by **IBM**, available on **Coursera**.  
-It demonstrates some of the practical application of JavaScript fundamentals covered during the course.
+#### This repository contains a project developed as part of the **JavaScript Programming Essentials course by IBM**.
+#### In this project, I strengthened my fundamentals of **JavaScript programming** by building a simple travel recommendation application. 
+##### The main concepts applied include:
+- JavaScript variables, data types, and operators
+- Conditional logic and control flow
+- Functions and basic program structure
+- Working with arrays and objects
+- Handling user input and dynamic content
+- Basic problem-solving using JavaScript logic
